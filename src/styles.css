@@ -57,10 +57,3 @@ html {
     animation: color 9s infinite linear;
 }
 
-.stats {
-    text-align: center;
-}
-
-.chain {
-    background-image: url("media/man.jpeg");
-}

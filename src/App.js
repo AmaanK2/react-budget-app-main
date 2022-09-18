@@ -32,16 +32,11 @@ function App() {
         </Button>
         </a>
       </div>
-      <h1 className="title-shine">plutus</h1>
+      <h1 className="title-shine">plutus s</h1>
 
     </div>
 
-    <div className="stats">
-      <h1>Financial Literacy Statistics</h1>
-      <div className="chain">
-
-      </div>
-    </div>
+    
     
       <Container id = "bottom" className="my-4">
         <Stack direction="horizontal" gap="2" className="mb-4">
